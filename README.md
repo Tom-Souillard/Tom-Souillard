@@ -1,3 +1,15 @@
+### About Me:  
+🌟 **Welcome to my GitHub, I'm Duy-Anh Nguyen!** Passionate about algorithms and cybersecurity, I develop innovative solutions to strengthen the security of computer systems.
+
+🐍 **Python expert and data science specialist,** I devise robust strategies to protect digital infrastructures. I combine rigorous analysis and technical innovation to anticipate and neutralize threats.
+
+🔬 **Naturally curious, I am constantly learning and adapting the latest technologies to solve complex problems.** I love discovering new methods to improve the security and efficiency of the systems I develop.
+
+🤝 **Interested in advanced protection technologies and complex challenges? Let's connect!**
+
+🚀 **Discover my projects:** They reflect my experiences and passions. Explore, fork, star, and contribute to enrich this shared adventure.
+___
+
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Tom-Souillard&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
@@ -18,10 +30,12 @@
 | ![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="48" height="48"/> PyTorch |
 
 
-## Cybersecurity
+## Cybersecurity Technologies
+
 | Scapy | Impacket | Cryptography | Volatility | Sqlmap | Nmap | Wireshark | Metasploit | Burp Suite |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/secdev/scapy/blob/master/doc/scapy_logo.png" title="Scapy" alt="Scapy" width="48" height="48"/>|<img src="assets/impacket.png" title="Impacket" alt="Impacket" width="48" height="48"/>|<img src="assets/cryptography.jpg" title="Cryptography" alt="Cryptography" width="48" height="48"/>|<img src="https://github.com/volatilityfoundation/volatility/blob/master/resources/volatility.svg" title="Volatility" alt="Volatility" width="48" height="48"/>|<img src="assets/sqlmap.png" title="Sqlmap" alt="Sqlmap" width="48" height="48"/>| ![Nmap](https://img.icons8.com/color/48/000000/nmap.png) Nmap | <img src="assets/wireshark.jpg" title="Wireshark" alt="Wireshark" width="48" height="48"/> | ![Metasploit](https://img.icons8.com/color/48/000000/metasploit.png) Metasploit | <img src="assets/BurpSuite.png" title="BurpSuite" alt="BurpSuite" width="48" height="48"/> |
+|:-----:|:--------:|:------------:|:----------:|:------:|:----:|:---------:|:----------:|:----------:|
+| <img src="https://github.com/secdev/scapy/blob/master/doc/scapy_logo.png" title="Scapy" alt="Scapy" width="48" height="48"/> | <img src="assets/impacket.png" title="Impacket" alt="Impacket" width="48" height="48"/> | <img src="assets/cryptography.jpg" title="Cryptography" alt="Cryptography" width="48" height="48"/> | <img src="https://github.com/volatilityfoundation/volatility/blob/master/resources/volatility.svg" title="Volatility" alt="Volatility" width="48" height="48"/> | <img src="assets/sqlmap.png" title="Sqlmap" alt="Sqlmap" width="48" height="48"/> | <img src="https://img.icons8.com/color/48/000000/nmap.png" title="Nmap" alt="Nmap" width="48" height="48"/> | <img src="assets/wireshark.jpg" title="Wireshark" alt="Wireshark" width="48" height="48"/> | <img src="https://img.icons8.com/color/48/000000/metasploit.png" title="Metasploit" alt="Metasploit" width="48" height="48"/> | <img src="assets/BurpSuite.png" title="BurpSuite" alt="BurpSuite" width="48" height="48"/> |
+
 
 
 ## Data Manipulation and Environments
@@ -34,9 +48,11 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="48" height="48"/> SQLite |  |  |  |
 
 ## Operating Systems
-| Linux | Ubuntu | Kali | ParrotOS | Windows |
-|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="48" height="48"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="48" height="48"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="48" height="48"/> | <img src="https://github.com/ParrotSec/parrot-themes/blob/master/icons/parrot-logo.png" title="ParrotOS" alt="ParrotOS" width="48" height="48"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows" alt="Windows" width="48" height="48"/> |
+
+|   Linux   |   Ubuntu   |    Kali    |  ParrotOS  |  Windows  |
+|:---------:|:----------:|:----------:|:----------:|:---------:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> | <img src="https://github.com/ParrotSec/parrot-themes/blob/master/icons/parrot-logo.png" title="ParrotOS" alt="ParrotOS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows" alt="Windows" width="55" height="55"/> |
+
 
 
 </div>
