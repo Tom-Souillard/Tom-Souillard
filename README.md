@@ -1,11 +1,18 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C896&height=200&text=Welcome%20to%20my%20GitHub&fontAlign=50&fontAlignY=40&fontSize=40&desc=Discover%20Innovative%20Projects%20and%20Solutions&descAlign=50&descAlignY=60&fontColor=ffffff&descColor=ffffff" style="width: 100%;"/>
+</p>
+
 ### About Me:  
-🌟 **Welcome to my GitHub, I'm Duy-Anh Nguyen!** Passionate about algorithms and cybersecurity, I develop innovative solutions to strengthen the security of computer systems.
+🌟 **Hello, I'm Duy-Anh Nguyen! Passionate about algorithms and cybersecurity**, I develop innovative solutions to strengthen the security of network systems.
 
 🐍 **Python expert and data science specialist,** I devise robust strategies to protect digital infrastructures. I combine rigorous analysis and technical innovation to anticipate and neutralize threats.
 
 🔬 **Naturally curious, I am constantly learning and adapting the latest technologies to solve complex problems.** I love discovering new methods to improve the security and efficiency of the systems I develop.
 
 🤝 **Interested in advanced protection technologies and complex challenges? Let's connect!**
+
+You can reach me through: <a href="https://www.linkedin.com/in/duy-anh-nguyen/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
+<a href="mailto:tom.souillard@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> 
 
 🚀 **Discover my projects:** They reflect my experiences and passions. Explore, fork, star, and contribute to enrich this shared adventure.
 ___
@@ -61,7 +68,7 @@ ___
 
 </div>
 
-
-</div>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C896&height=100&section=footer&fontColor=ffffff" style="width: 100%;"/>
+</p>
 ---
