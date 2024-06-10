@@ -24,7 +24,7 @@ ___
 
 <p>&nbsp;</p>
 
-## Langages et Frameworks
+## Langages and Frameworks
 | Langages | Frameworks |
 | --- | --- |
 | ![Python](https://img.icons8.com/color/48/000000/python.png) Python | ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) NumPy |
